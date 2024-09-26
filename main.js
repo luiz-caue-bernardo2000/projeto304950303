@@ -1,8 +1,8 @@
 alert('caue e bernardo, numero 7 e 8')
-let numero=parseInt (prompt('qual a medida dos lados do quadrado?'))
-document.write(numero);
+let area=parseInt (prompt('area'))
+document.write(area);
 
 function areaquadrado(lado1){
     return lado1*lado1;
 }
-console.log(areaquadrado(document.write(numero)));
+console.log(areaquadrado(document.write(area)));
