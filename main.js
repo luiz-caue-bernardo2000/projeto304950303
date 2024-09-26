@@ -5,4 +5,4 @@ document.write(area);
 function areaquadrado(lado1){
     return lado1*lado1;
 }
-console.log(areaquadrado(document.write(area)));
+console.log(areaquadrado(area));
