@@ -1,7 +1,7 @@
 alert('caue e bernardo, numero 7 e 8')
-function soma(num1,num2){
-    return num1+num2;
-}
+let numero=parseInt (prompt('qual a medida dos lados do quadrado?'))
+document.write(numero);
+
 function areaquadrado(lado1){
     return lado1*lado1;
 }
