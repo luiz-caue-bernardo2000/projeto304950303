@@ -5,5 +5,4 @@ document.write(numero);
 function areaquadrado(lado1){
     return lado1*lado1;
 }
-console.log(soma(5,5));
-console.log(areaquadrado(25));
+console.log(areaquadrado(document.write(numero)));
