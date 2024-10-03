@@ -25,6 +25,6 @@ console.log(i);
 console.log(estados[i])
 i=i+1;
 }
-for (let j = 0; estados < estados.length; j++) {
+for (let j = 0; j < j.length; j++) {
 console.log(estados[j]);
 }
