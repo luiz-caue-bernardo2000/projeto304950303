@@ -18,14 +18,22 @@ alert('caue e bernardo, numero 7 e 8')
 // }
 // console.log(media(valoresDaMedia1, valoresDaMedia2, valoresDaMedia3));
 
-let estados=['AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SP','SE','TO']
-let i=0;
-while( i<28 ){
-console.log(i);
-console.log(estados[i])
-i=i+1;
+// let estados=['AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SP','SE','TO']
+// let i=0;
+// while( i<28 ){
+// console.log(i);
+// console.log(estados[i])
+// i=i+1;
+// }
+// for (let j = 0; j<estados.length; j++) {
+// console.log(j);
+// console.log(estados[j]);
+// }
+
+let idade=7;
+if(idade>17){
+console.log('pode dirigir')
 }
-for (let j = 0; j<estados.length; j++) {
-console.log(j);
-console.log(estados[j]);
+else{
+console.log('ilegal dirigir')
 }
