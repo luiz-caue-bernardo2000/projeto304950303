@@ -17,3 +17,5 @@ function media(valor1,valor2,valor3){
   return (valor1+valor2+valor3)/3;
 }
 console.log(media(valoresDaMedia1, valoresDaMedia2, valoresDaMedia3));
+
+let estados = ['Paraná','Bahia','São Paulo','Minas gerais']
