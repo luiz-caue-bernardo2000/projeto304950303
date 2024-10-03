@@ -7,9 +7,9 @@ function areaquadrado(lado1){
 }
 console.log(areaquadrado(area));
 
-l valoresDaMedia1=parseInt (prompt('valores da media'))
-l valoresDaMedia2=parseInt (prompt('valores da media'))
-l valoresDaMedia3=parseInt (prompt('valores da media'))
+let valoresDaMedia1=parseInt (prompt('valores da media'))
+let valoresDaMedia2=parseInt (prompt('valores da media'))
+let valoresDaMedia3=parseInt (prompt('valores da media'))
 document.write(valoresDaMedia1)
 document.write(valoresDaMedia2)
 document.write(valoresDaMedia3);
@@ -18,4 +18,4 @@ function media(valor1,valor2,valor3){
 }
 console.log(media(valoresDaMedia1, valoresDaMedia2, valoresDaMedia3));
 
-let estados = ['Paraná','Bahia','São Paulo','Minas gerais']
+let estados = ['AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SE','TO']
