@@ -20,7 +20,7 @@ alert('caue e bernardo, numero 7 e 8')
 
 let estados=['AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SP','SE','TO']
 let i=0;
-while( i<27 ){
+while( i<28 ){
 console.log(i);
 i=i+1;
 }
