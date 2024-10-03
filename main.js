@@ -7,9 +7,9 @@ function areaquadrado(lado1){
 }
 console.log(areaquadrado(area));
 
-let valoresDaMedia1=parseInt (prompt('valores da media'))
-let valoresDaMedia2=parseInt (prompt('valores da media'))
-let valoresDaMedia3=parseInt (prompt('valores da media'))
+l valoresDaMedia1=parseInt (prompt('valores da media'))
+l valoresDaMedia2=parseInt (prompt('valores da media'))
+l valoresDaMedia3=parseInt (prompt('valores da media'))
 document.write(valoresDaMedia1)
 document.write(valoresDaMedia2)
 document.write(valoresDaMedia3);
